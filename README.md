@@ -231,8 +231,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Your Name**
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Twitter: [@yourusername](https://twitter.com/yourusername)
+- Youtube: [@esmail_elkablawy](https://www.youtube.com/@esmail_elkablawy)
+- LinkedIn: [@Esmail Elkablawy](https://www.linkedin.com/in/esmail-elkablawy-a75048265/)
 
 ---
 
